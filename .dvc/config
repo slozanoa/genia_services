@@ -1,0 +1,2 @@
+['remote "genia_service_storage"']
+    url = https://dagshub.com/slozanoa/genia_services.dvc
